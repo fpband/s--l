@@ -18,7 +18,7 @@
     "channel_files_chat_id": {
       "description": " Telegram channel chat ID for storing and managing files",
       "required": "true",
-      "value": ""
+      "value": "-1001742630024"
     },
     "channel_username": {
       "description": "Telegram channel username for support",
